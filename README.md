@@ -1,1 +1,1 @@
-Submit high-level bugs and feature requests here.
+Submit high-level bugs here.
